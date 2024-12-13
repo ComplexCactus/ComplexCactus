@@ -1,7 +1,6 @@
 👋 Hi, I’m @ComplexCactus 🌵
 
-Complex Cactus is a new indie game studio by Stef Velzeboer (formerly at Deviation Games, The Coalition, Capcom, Dekogon, and EA). We specialize in services such as co-development, Materials (PBR), Environment Art, Tech Art, and Unreal Engine 5, creating both realistic and stylized games.
-Our skillsets include sculpting, texturing, digital 3D art, Unreal tools & widgets, teaching, consulting, and more.
+Complex Cactus is a new indie game studio by Stef Velzeboer (formerly at Deviation Games, The Coalition, Capcom, Dekogon, and EA). 
 
 📫 [Email](contact@complexcactus.com)
 
